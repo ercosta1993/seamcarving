@@ -1,3 +1,5 @@
+// Edson Ricardo da Costa
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>        // Para usar strings
